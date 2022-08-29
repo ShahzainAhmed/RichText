@@ -1,1 +1,1 @@
-# RichText
+# RichText Widget - Flutter
